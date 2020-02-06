@@ -1,0 +1,6 @@
+"snowballfight.cpp":
+	path: "snowballfight.cpp"
+
+"snowballfight.cpp 2":
+	debugger: "dbg-gdb"
+	path: "snowballfight.cpp"

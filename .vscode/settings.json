@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "xutuluty": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "queue": "cpp",
+        "string": "cpp"
+    },
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && g++ -std=c++14 $fileName -o $fileNameWithoutExt -g && $dir$fileNameWithoutExt"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
